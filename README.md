@@ -1,6 +1,6 @@
 Hello, I'm Ayush! :vulcan_salute:
 
-Education: Chandigarh University
+:school:Education: Chandigarh University
 
 :computer:Proficiencies: :snake: Python |
 :capital_abcd: C | :capital_abcd: C++ | :coffee: Java
