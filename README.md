@@ -1,5 +1,7 @@
 Hello, I'm Ayush Burman! :vulcan_salute:
 
+I'm currentlly learning React <img src="icons/react.svg" alt="React" width="40" height="40">
+
 :school:Education: Chandigarh University
 
 
