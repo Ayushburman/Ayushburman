@@ -1,11 +1,10 @@
 Hi, I'm **Ayush Burman!** :business_suit_levitating:
-================================================
+====================================================
 
-:memo: I'm currently learning **React** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20">| **TypeScript** <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript logo" width="20">| **Java** 
+:memo: I'm currently learning **React** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20">| **TypeScript** <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript logo" width="20">| **Java** <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" width="45"><br>
 
- <br>
-:man_technologist: I'm currently working on college **[`Numbers`](#numbers)__
- 
+
+ <br>:man_technologist: I'm currently working on college **Projects**<br>
 :school: **Education:** Chandigarh University<br>
 :computer:**Proficiencies:**:-
 
