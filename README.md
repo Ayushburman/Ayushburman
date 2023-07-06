@@ -1,12 +1,14 @@
-Hello, I'm Ayush Burman! :vulcan_salute:
+Hi, I'm **Ayush Burman!** :business_suit_levitating:
+================================================
 
-I'm currentlly learning React <img src="icons/react.svg" alt="React" width="40" height="40">
+:memo: I'm currently learning **React** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20">| **TypeScript** <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript logo" width="20">| **Java** 
 
-:school:Education: Chandigarh University
+ <br>
+:man_technologist: I'm currently working on college **[`Numbers`](#numbers)__
+ 
+:school: **Education:** Chandigarh University<br>
+:computer:**Proficiencies:**:-
 
-
-:computer:Proficiencies: :snake: Python |
-:capital_abcd: C | :capital_abcd: C++ | :coffee: Java
 
 
 
@@ -18,13 +20,8 @@ I'm currentlly learning React <img src="icons/react.svg" alt="React" width="40" 
 
 <a href="mailto:ayushburman128@gmail.com">
   <img img align="left" width = "7.3%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
+</a>  <br>
 
-<img align="left width = "07" src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>(https://twitter.com/@ayushburman128) <br>
-2.<br>
-3.<br>
-4.<br>
-5.<br>
 
 
 
