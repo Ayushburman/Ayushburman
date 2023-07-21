@@ -33,7 +33,6 @@ Hi, I'm **Ayush Burman!** :business_suit_levitating:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ayushburman/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/in/ayush-burman-47ba331a6/)
 -------------------------------------------------
-🎯 **AIM:** ![Google](https://img.shields.io/badge/Google-%23DB4437.svg?&style=for-the-badge&logo=Google&logoColor=white)
 
 -------------------------------------------------
 <img align="left" width = "40%" src="https://github-readme-stats.vercel.app/api?username=AyushBurman&show_icons=true&theme=radical"/>
