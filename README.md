@@ -8,20 +8,18 @@ Hi, I'm **Ayush Burman!** :business_suit_levitating:
 <br>:man_technologist: I'm currently working on college `PROJECTS`<br>
 :school: **Education:** `Chandigarh University`<br>
 -------------------------------------------------
-:computer: **SKILLS:** [![My Skills](https://skillicons.dev/icons?i=python,java,typescript,javascript,css,html,cpp,c,git,github,bash,linux,mysql)](https://skillicons.dev)
+:rocket: **SKILLS:** [![My Skills](https://skillicons.dev/icons?i=python,java,typescript,javascript,css,html,cpp,c,git,github,bash,linux,mysql)](https://skillicons.dev)
 <svg width="246" height="246" viewBox="0 0 0 256" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="246" height="246" rx="60" fill="#242938"/>
 <path d="M124.228 229L90.623 208.89V90.31L40 120.459L40.123 75.545L124.228 26V229ZM131.784 26V229L165.393 208.89V151.781L190.763 166.895L190.612 127.833L165.393 112.988V90.31L216 120.459L215.878 75.545L131.784 26Z" fill="#FF6F00"/>
 </svg>
 -------------------------------------------------
-<img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
+:computer: **WORKSTATION:** <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-DELL_vostro-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+-------------------------------------------------
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40ayushburman-orange?style=flat-square&logo=instagram)](https://www.instagram.com/ayushburman/)<br>
-<a href="mailto:ayushburman128@gmail.com">
-  <img img align="left" width = "7.3%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>  <br>
-
-
+-------------------------------------------------
 
 
 
