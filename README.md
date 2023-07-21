@@ -7,6 +7,7 @@ Hi, I'm **Ayush Burman!** :business_suit_levitating:
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <br>:man_technologist: I'm currently working on college `PROJECTS`<br>
 :school: **Education:** `Chandigarh University`<br>
+:mortar_board: **Degree:** `Computer Science`
 -------------------------------------------------
 :rocket: **SKILLS:** [![My Skills](https://skillicons.dev/icons?i=python,java,typescript,javascript,css,html,cpp,c,git,github,bash,linux,mysql)](https://skillicons.dev)
 <svg width="246" height="246" viewBox="0 0 0 256" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -18,16 +19,26 @@ Hi, I'm **Ayush Burman!** :business_suit_levitating:
 <img src="https://img.shields.io/badge/Windows-DELL_vostro-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
 -------------------------------------------------
-:zap: **ENERGY:**  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+👻 **HOBBIES:** **🍕`FOOD`** **📖`READ`** **✈️`TRAVEL`** **🎻`VIOLIN`** **✍️`WRITING`** **⚔️`ANIME`**
+-------------------------------------------------
+
+:zap: **FUN:**  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"/>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white"/>
 -------------------------------------------------
+🤝 **CONNECT:** [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushburman128@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@ayushburman128)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ayushburman/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/in/ayush-burman-47ba331a6/)
+-------------------------------------------------
+🎯 **AIM:** ![Google](https://img.shields.io/badge/Google-%23DB4437.svg?&style=for-the-badge&logo=Google&logoColor=white)
 
-
-
+-------------------------------------------------
 <img align="left" width = "40%" src="https://github-readme-stats.vercel.app/api?username=AyushBurman&show_icons=true&theme=radical"/>
-<img align="left" width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushBurman&layout=compact"/>
+<img align="left" width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushburman&theme=blue-green"/>
+
 
 
 
