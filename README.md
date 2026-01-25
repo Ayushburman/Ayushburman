@@ -1,4 +1,8 @@
+
+![My Image](https://github.com/Ayushburman/Ayushburman/blob/a67c6546a31f38fb44d82922d91db3fa6f4dc066/pptC3CC.pptm%20%5BAutosaved%5D.jpg)
+
 # Hi, I'm Ayush Burman 👋
+
 
 Computer Science student | Backend & Systems Enthusiast
 
