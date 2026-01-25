@@ -19,7 +19,7 @@ Hi, I'm **Ayush Burman!** :business_suit_levitating:
 <img src="https://img.shields.io/badge/Windows-DELL_vostro-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
 -------------------------------------------------
-👻 **HOBBIES:** **🍕`FOOD`** **📖`READ`** **✈️`TRAVEL`** **🎻`VIOLIN`** **✍️`WRITING`** **⚔️`ANIME`**
+
 -------------------------------------------------
 
 :zap: **FUN:**  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
