@@ -5,5 +5,6 @@
 ###  🌀 AJ91789 
 ###  🌀 C00RD AB-27654-JK
 ###  🌀 EXPLORING
-
+-----------------------
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushburman&show_icons=true&theme=tokyonight)
 
