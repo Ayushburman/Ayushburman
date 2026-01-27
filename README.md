@@ -6,8 +6,13 @@
 ###  🌀 C00RD AB-27654-JK
 ###  🌀 EXPLORING
 -----------------------
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushburman&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ayushburman&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushburman&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Ayushburman&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushburman&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushburman&layout=compact&theme=tokyonight" />
+</p>
