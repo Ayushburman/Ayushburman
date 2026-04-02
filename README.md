@@ -3,7 +3,7 @@
 
 #    👨🏻‍🚀 **I-I E l l O  - I'M AYUSH BURMAN**
 ###  🌀 AJ91789 
-###  🌀 C00RD AB-27654-JK
+###  🌀 C00RD AB-27654-CMC-V-TN
 ###  🌀 EXPLORING
 -----------------------
 <p align="center">
