@@ -12,7 +12,7 @@
   <img src="https://streak-stats.demolab.com?user=Ayushburman&theme=transparent&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushBurman&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushburman&layout=compact&theme=tokyonight" />
 </p>
 
 
