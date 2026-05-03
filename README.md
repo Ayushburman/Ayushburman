@@ -7,7 +7,7 @@
 ###  🌀 EXPLORING
 -----------------------
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushburman&show_icons=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff" />
+ 
 
   <img src="https://streak-stats.demolab.com?user=Ayushburman&theme=transparent&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
 </p>
