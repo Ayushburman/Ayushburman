@@ -7,8 +7,6 @@
 ###  🌀 EXPLORING
 -----------------------
 <p align="center">
- 
-
   <img src="https://streak-stats.demolab.com?user=Ayushburman&theme=transparent&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
 </p>
 
