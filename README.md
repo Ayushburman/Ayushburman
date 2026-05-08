@@ -1,5 +1,5 @@
 
-![My Image](https://raw.githubusercontent.com/Ayushburman/Ayushburman/refs/heads/main/design.gif)    
+![My Image](https://raw.githubusercontent.com/Ayushburman/Ayushburman/refs/heads/main/design.gif) 
 
 #    👨🏻‍🚀 **I-I E l l O  - I'M AYUSH BURMAN**
 ###  🌀 AJ91789 
