@@ -6,7 +6,7 @@
 ###  🌀 C00RD AB-27654-CMC-V-TN
 ###  🌀 EXPLORING
 -----------------------
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=Ayushburman&theme=transparent&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
 </p>
 
